@@ -6,7 +6,8 @@ var proxy = "__PROXY__";
 var rules = [
   "||2dbook.com",
   "||4tern.com",
-  "|http://85.17.73.31/",
+  "||ip-check.info",
+  "||85.17.73.31",
   "||adorama.com",
   "||agnesb.fr",
   "||akiba-web.com",
