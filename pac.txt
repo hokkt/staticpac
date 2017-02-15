@@ -5,6 +5,7 @@ var proxy = "__PROXY__";
 
 var rules = [
   "||2dbook.com",
+  "||visualstudio.com",
   "||4tern.com",
   "||ip-check.info",
   "||85.17.73.31",
